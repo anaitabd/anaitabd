@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @anaitabd
+- 👀 I’m interested in software engineering, cloud-native apps, and AI-powered solutions
+- 🌱 I’m currently learning advanced backend development, LLM integration, and DevOps
+- 💞️ I’m looking to collaborate on open-source projects related to AI chatbots, cloud automation, and full-stack web apps
+- 📫 How to reach me: abdallah@example.com | [LinkedIn](https://linkedin.com/in/anaitabd)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m passionate about blending AI with user experience to build smarter apps!
